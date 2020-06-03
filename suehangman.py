@@ -24,3 +24,6 @@ while i > 0:
     i -= 1
 print(blanks)
 
+# winnerword = word to guess
+# alphabet = upper and lower case letters
+# letters
